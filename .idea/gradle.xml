@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Data Types" />
+        <option name="gradleJvm" value="openjdk-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Data Types" />
+            <option value="$PROJECT_DIR$/Data Types/1- Introduction to Programming/Introduction to Programming/Introduction" />
+            <option value="$PROJECT_DIR$/Data Types/1- Introduction to Programming/Introduction to Programming/Programming Language" />
+            <option value="$PROJECT_DIR$/Data Types/1- Introduction to Programming/Introduction to Programming/What is Program" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/First Steps in Java/Comments" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/First Steps in Java/Java Classes" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/First Steps in Java/Java Program" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/First Steps in Java/Print Messages" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/First Steps in Java/Printing Statements" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/First Steps in Java/What is debugging" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/Variables and Types/Assigning Values" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/Variables and Types/Coffee Shop" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/Variables and Types/Floating-point" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/Variables and Types/Math methods" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/Variables and Types/Primitive Types" />
+            <option value="$PROJECT_DIR$/Data Types/2- First Steps in Java/Variables and Types/Variables" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Chained Conditionals" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Chained vs. Nested" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Check Divisible" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Coding Exercise" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Conditional Divisor" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Conditional Operators" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Conditional if" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Leap Year" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Modulus operator ( % )" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/More Conditions" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Nested conditionals" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Output Conditional" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Positive Or Negative" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/Switch Statement" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Conditionals/if-else vs switch" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/Conditional While Counter" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/Iteration and Loops" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/Multiplication Table" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/Output Loops" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/The Nested Loops" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/The for Loop" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/The while Loop" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/break and continue" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Loops/while vs do-while" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Boolean Expressions" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Children Per Families" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Conditional Operators" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Converting from double to int" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Integer Division" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Logical Boolean" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Logical Operators" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Operators" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Overlap between int and double" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Shortcut Operators" />
+            <option value="$PROJECT_DIR$/Data Types/3- Flow Control/Operators/Type Casting" />
+            <option value="$PROJECT_DIR$/Data Types/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Java for beginners" />
+        <option name="gradleJvm" value="openjdk-22" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Java for beginners" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Operators/1.5 Boolean Logic" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Operators/1.6 Boolean Calculator" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Operators/Boolean Operators" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Operators/Comparison Operators" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Operators/Shortcut Operators" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Structure/1.1 Class syntax" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Structure/1.2 Say Hello" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Structure/Classes in Java" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Structure/Printing Statements" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Variables/1.3 Cafe Receipt" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Variables/1.4 Speed Calculator" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Variables/Changing Values" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Variables/Integer Division and Type Casting" />
+            <option value="$PROJECT_DIR$/Java for beginners/1. Fundamentals/Variables/Storing Values" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Conditionals/2.1 Client Points" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Conditionals/2.2 Roller Coaster" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Conditionals/2.3 Smart Room" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Conditionals/Conditionals" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Conditionals/Nesting Conditionals" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Conditionals/The else Clause" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/2.4 Odd Selector" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/2.5 While Using Modulus" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/2.6 Breaking The Ice" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/2.7 Finding primes" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/2.8 Hundredth Prime" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/Nesting Loops and Conditionals" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/The for Loop" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/The while Loop" />
+            <option value="$PROJECT_DIR$/Java for beginners/2. Flow Control/Loops/break and continue" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Methods/3.4 Estimate Age" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Methods/3.5 Make it A Combo" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Methods/3.6 Counting Sheep" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Methods/Returning Values" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Methods/Static Attributes" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Methods/Void Methods" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Objects/3.1 Make a Thing" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Objects/3.2 Shoe Maker" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Objects/3.3 Car Factory" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Objects/Attributes" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Objects/Constructors" />
+            <option value="$PROJECT_DIR$/Java for beginners/3. Objects and Methods/Objects/Objects" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/Arrays/4.3 Get Letter List" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/Arrays/4.4 Counting Error" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/Arrays/Arrays" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/Arrays/The Enhanced for Loop" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/String Methods/4.1 Get Shortest Word" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/String Methods/4.2 Word Cutter" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/String Methods/String Length" />
+            <option value="$PROJECT_DIR$/Java for beginners/4. Arrays and String Methods/String Methods/Substrings" />
+            <option value="$PROJECT_DIR$/Java for beginners/5. ArrayList and 2D Arrays/2D Arrays/2D Arrays" />
+            <option value="$PROJECT_DIR$/Java for beginners/5. ArrayList and 2D Arrays/2D Arrays/5.3 Chessboard" />
+            <option value="$PROJECT_DIR$/Java for beginners/5. ArrayList and 2D Arrays/ArrayList/5.1 Month organizer" />
+            <option value="$PROJECT_DIR$/Java for beginners/5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator" />
+            <option value="$PROJECT_DIR$/Java for beginners/5. ArrayList and 2D Arrays/ArrayList/ArrayList Methods" />
+            <option value="$PROJECT_DIR$/Java for beginners/5. ArrayList and 2D Arrays/ArrayList/ArrayLists" />
+            <option value="$PROJECT_DIR$/Java for beginners/5. ArrayList and 2D Arrays/ArrayList/Wrapper Classes" />
+            <option value="$PROJECT_DIR$/Java for beginners/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

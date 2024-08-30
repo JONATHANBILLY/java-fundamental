@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "When smart mode is on, humidity is 40% and temperature is 20."
+    is_correct: true
+  - text: "When smart mode is off, humidity is 80% and temperature is 24."
+    is_correct: false
+  - text: "When smart mode is off, humidity is 70% and temperature is 30."
+    is_correct: true
+  - text: "When smart mode is on, humidity is 90% and temperature is 27."
+    is_correct: true
+files:
+  - name: src/SmartRoom.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 29 Aug 2024 04:00:38 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+  - 3
+local_check: true

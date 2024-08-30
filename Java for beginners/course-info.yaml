@@ -1,0 +1,17 @@
+type: marketplace
+title: Java for beginners
+language: English
+summary: "Originally created as an online learning resource for the students of Hsinchu\
+  \ International School in Taiwan but released for the general public. \n\nThis course\
+  \ covers main aspects of the language: loops, conditionals, objects, methods, arrays\
+  \ and ArrayLists. It introduces most topics of the AP Computer Science A curriculum.\
+  \ \n\nIt is intended as a complement to a regular coding course, not as a replacement."
+programming_language: Java
+content:
+  - 1. Fundamentals
+  - 2. Flow Control
+  - 3. Objects and Methods
+  - 4. Arrays and String Methods
+  - 5. ArrayList and 2D Arrays
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/18905-java-for-beginners/reviews

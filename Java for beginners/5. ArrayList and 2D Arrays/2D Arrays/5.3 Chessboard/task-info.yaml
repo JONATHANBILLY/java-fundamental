@@ -1,0 +1,24 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/Chessboard.java
+    visible: true
+    placeholders:
+      - offset: 124
+        length: 36
+        placeholder_text: /* Create and print a chessboard. */
+        initial_state:
+          length: 36
+          offset: 124
+        initialized_from_dependency: false
+        encrypted_possible_answer: JmJUEZ2/1qzoXqyNPMTh8+Rb0SHtzGZk6ZFA8GBjJpVu6NrfpQvl1K4ASwcYeT6m1jC3JV2NnASUnJ4m7zx0ur5xsgNJ9UbRguRmPUXIVDmuMiR89VZOo4NwI0evvPYx+ZiRcrpEPOyNOlvqMIDlYmXiqrP4oy0fTam/tNYnbiKlZbL/LUC1oq4YYqcASMLmhA5k6uc30iP9sC86jcN9ErVHsSTJGPEzVRHB2pTVvxlwWDH6xiFrkaLrE9YtNAPdB8w0R0O657Acm39wu1/Cl5wfSyOZKS4Ti/zboB9G0OgDc4mvMkKnIwfI0OrtH9ol5q2Y5sEJfbp/3+3cofhv0vGR2m3Lk3/lswuIhM74ybTlWPbHpsFRxgY8seMKsNPFAawthl0iJjCbdUjPGF0lnMO4DYXm1p/nUwRB7lO4giYyNqK3bvvTVyH827e0CVFWgiPUiKH+GYqpZ2Pm97XUZ8867AYwwwTXCpy5UiVTJ8OcxELzLnJZy44b57AqyHW3WabJDrw791NWi+bJKZcED+fAxScLDasFayVcGDEQl0Ft42VQHYqoy13VPRixroBj9XOc5t/uZGOXptKE4D3rag==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

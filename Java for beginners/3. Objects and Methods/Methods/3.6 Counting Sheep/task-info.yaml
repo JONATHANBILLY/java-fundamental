@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/Sheep.java
+    visible: true
+    placeholders:
+      - offset: 186
+        length: 56
+        placeholder_text: /* Add 1 to the Sheep count everytime one is created. */
+        initial_state:
+          length: 56
+          offset: 186
+        initialized_from_dependency: false
+        encrypted_possible_answer: tZPJwI61bNWS1wcUFVHI703pkL9p3iM9n/wz5X5N9DDM5W4Ssdfo6zv8hfi2Gp7U
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/SheepTests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

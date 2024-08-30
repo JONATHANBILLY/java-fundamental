@@ -1,0 +1,24 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/PositiveOrNegative.java
+    visible: true
+    placeholders:
+      - offset: 113
+        length: 11
+        placeholder_text: /* Write your answer here */
+        initial_state:
+          length: 28
+          offset: 113
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0S73LtCZPOC4XmOID7Ctnw==
+        selected: false
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 08:09:28 UTC"
+record: -1

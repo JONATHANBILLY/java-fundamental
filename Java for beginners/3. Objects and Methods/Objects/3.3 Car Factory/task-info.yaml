@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Car car1 = new Car();
+    is_correct: false
+  - text: "Car car2 = Car(\"van\", false, 20000);"
+    is_correct: false
+  - text: "Car car3 = new Car(\"coupe\", false, 12000);"
+    is_correct: true
+  - text: "car4 = new Car(32000, \"sedan\", true)"
+    is_correct: false
+files:
+  - name: src/Car.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 30 Aug 2024 04:14:23 UTC"
+record: -1
+selected_options:
+  - 2
+local_check: true

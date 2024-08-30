@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: (t || !f) == (2*z <= z)
+    is_correct: false
+  - text: (x >= y)
+    is_correct: true
+  - text: -y/x == z
+    is_correct: true
+  - text: (!t == f) != (y+z/x > x-y*z)
+    is_correct: true
+files:
+  - name: src/BooleanExpressions.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 07:55:50 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+  - 3
+local_check: true

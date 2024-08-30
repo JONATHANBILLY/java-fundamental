@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Thing myThing = new Thing();
+    is_correct: true
+  - text: Thing someThing = Thing();
+    is_correct: false
+  - text: Thing Thing = new Thing();
+    is_correct: false
+files:
+  - name: src/Thing.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 30 Aug 2024 03:40:56 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: true

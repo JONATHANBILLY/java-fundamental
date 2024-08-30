@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: The name of the class is incorrect.
+    is_correct: true
+  - text: There are no instructions inside the main method.
+    is_correct: false
+files:
+  - name: src/ClassSyntax.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Aug 2024 04:34:55 UTC"
+record: -1
+selected_options:
+  - 0
+local_check: true

@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/PrintMessages.java
+    visible: true
+    placeholders:
+      - offset: 76
+        length: 118
+        placeholder_text: /* Write your answer here. */
+        initial_state:
+          length: 29
+          offset: 82
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFHENxRy1LS5FIDeSTryzRFalYWMDdjlXJ//wRVw0wQw+LcpxyycrAgiyY4pzzX9m1zQtFGotjwcWBmoSW4hJRoBaRfwpccDMf7CEbIuS3mjXmhBLXh5QP+D+OCtp1hkGqrYUAkGNOl5jd0UYkVe/f+c=
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 23 Aug 2024 17:06:16 UTC"
+record: -1

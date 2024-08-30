@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Change the condition of the loop.
+    is_correct: false
+  - text: Modify the initializer variable of the loop.
+    is_correct: false
+  - text: Change the updater/incrementor variable of the loop.
+    is_correct: true
+  - text: Add a conditional statement inside the loop.
+    is_correct: true
+status: Unchecked
+record: -1
+local_check: true

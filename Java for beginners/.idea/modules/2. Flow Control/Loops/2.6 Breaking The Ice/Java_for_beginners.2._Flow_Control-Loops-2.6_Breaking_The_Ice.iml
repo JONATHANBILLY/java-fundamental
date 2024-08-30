@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":2._Flow_Control-Loops-2.6_Breaking_The_Ice" external.linked.project.path="$MODULE_DIR$/../../../../../2. Flow Control/Loops/2.6 Breaking The Ice" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java_for_beginners" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../2. Flow Control/Loops/2.6 Breaking The Ice">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../2. Flow Control/Loops/2.6 Breaking The Ice/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../2. Flow Control/Loops/2.6 Breaking The Ice/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../2. Flow Control/Loops/2.6 Breaking The Ice/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

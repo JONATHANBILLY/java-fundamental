@@ -1,0 +1,18 @@
+type: theory
+files:
+  - name: src/LeapYear.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: img.png
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

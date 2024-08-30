@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+  - name: src/StarLoops.java
+    visible: true
+    placeholders:
+      - offset: 97
+        length: 201
+        placeholder_text: /* Writ your answer here */
+        initial_state:
+          length: 27
+          offset: 97
+        initialized_from_dependency: false
+        encrypted_possible_answer: ReN6VvsXfSd+AlBRoDZecE28Od8vShxjnkjMJNEk56s8+5yDXlpXu+77iFf3E8sJSjnwclIbFfp+FnNXG4K9ixQvJ2F1fE2MnYpLlfDQhy3lnSkZem1aM9uvggcRQlGJvfi2DtJOIbMt+2gnPBhZ3piodXJqzpRsXquMdHqy4G84SMJ2CZLv5RDv0Ejn0wKd16vmkd7tYrzEumKDeB5BGTPPCtT5ac/D3QIZeY1Eot0=
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 27 Aug 2024 10:21:27 UTC"
+record: -1

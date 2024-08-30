@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/1- Introduction to Programming/Introduction to Programming/Introduction" />
+            <option value="$PROJECT_DIR$/1- Introduction to Programming/Introduction to Programming/Programming Language" />
+            <option value="$PROJECT_DIR$/1- Introduction to Programming/Introduction to Programming/What is Program" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/First Steps in Java/Comments" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/First Steps in Java/Java Classes" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/First Steps in Java/Java Program" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/First Steps in Java/Print Messages" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/First Steps in Java/Printing Statements" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/First Steps in Java/What is debugging" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/Variables and Types/Assigning Values" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/Variables and Types/Coffee Shop" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/Variables and Types/Floating-point" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/Variables and Types/Math methods" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/Variables and Types/Primitive Types" />
+            <option value="$PROJECT_DIR$/2- First Steps in Java/Variables and Types/Variables" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Chained Conditionals" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Chained vs. Nested" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Check Divisible" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Coding Exercise" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Conditional Divisor" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Conditional Operators" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Conditional if" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Leap Year" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Modulus operator ( % )" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/More Conditions" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Nested conditionals" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Output Conditional" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Positive Or Negative" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/Switch Statement" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Conditionals/if-else vs switch" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/Conditional While Counter" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/Iteration and Loops" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/Multiplication Table" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/Output Loops" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/The Nested Loops" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/The for Loop" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/The while Loop" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/break and continue" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Loops/while vs do-while" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Boolean Expressions" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Children Per Families" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Conditional Operators" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Converting from double to int" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Integer Division" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Logical Boolean" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Logical Operators" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Operators" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Overlap between int and double" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Shortcut Operators" />
+            <option value="$PROJECT_DIR$/3- Flow Control/Operators/Type Casting" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

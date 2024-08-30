@@ -1,0 +1,31 @@
+type: edu
+files:
+  - name: src/Meal.java
+    visible: true
+    placeholders:
+      - offset: 252
+        length: 38
+        placeholder_text: /* Complete the method makeItACombo */
+        initial_state:
+          length: 38
+          offset: 252
+        initialized_from_dependency: false
+        encrypted_possible_answer: lAnkNnZU0s+ivE+t/fi85L5AmL5IOg5ZRdc9lP+W+aOVWsvxw03SnGGU6037BkFSQ/lBKcDYyFJcoo+HnQwlyZckGeurGt8Bgy2b7d5o23LHwimEvwzSB5vuUsB3oZPO5MzmnXIGyMZ1aktGSVnhtg==
+        selected: false
+        status: Unchecked
+      - offset: 296
+        length: 33
+        placeholder_text: /* Complete the method getBill */
+        initial_state:
+          length: 33
+          offset: 296
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y/7guHWbjcHL0k8Iw02e1VB7XYhp5c4x4gtJPMENNLSvTWKSPydXJQth72GSs7NiGeeM1pYCUS2k+KEaCG/FytYNqNkk7yjscu7uZLO/VNg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/MealTests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

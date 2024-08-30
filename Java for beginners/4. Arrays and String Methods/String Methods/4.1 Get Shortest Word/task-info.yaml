@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: src/GetShortestWord.java
+    visible: true
+    placeholders:
+      - offset: 125
+        length: 67
+        placeholder_text: /* Code a method that returns the shortest word of the two inputs*/
+        initial_state:
+          length: 67
+          offset: 125
+        initialized_from_dependency: false
+        encrypted_possible_answer: bHFGXImwHJv+cRk9TWcTxFz1cmwV9ylC1bdlHpcgrYiM3KxxRywF/2vF5cGit4VHkyikzBOel20en+zzTzvN3qqHXp9P7CV14eEV/RUYC2z4K0ODKvSNN61ykYWTVTQzZKORLoERRC2VE7UpvGHvJChMB4tZ7sxW8xwg6VjyY4N+gDYdmshavyYDwKHj1cqfdiIKKUd5YeydIfQIbXX8NXeSBhgLB7jWlNn31Eo1buJ8xXcBkz1KD+o98SRL2E+P
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/ShortestTests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

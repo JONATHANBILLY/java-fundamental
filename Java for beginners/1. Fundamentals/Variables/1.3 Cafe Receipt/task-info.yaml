@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/CafeReceipt.java
+    visible: true
+    placeholders:
+      - offset: 115
+        length: 203
+        placeholder_text: /* Declare and initialize the variables used below. */
+        initial_state:
+          length: 54
+          offset: 115
+        initialized_from_dependency: false
+        encrypted_possible_answer: z6lqHDM5HG+/EpVjsGhKBd07o/YyI/dB775O7UaZO2fOiKpoe9bdmkmbr34bdZii4A4EQt5+wIMJtMXI3nQgJU6IvgRUsznFbKorvX9f3bWhBru/yErHzsUI6Q/pWST1L0SZCI6QlVx8LozVVeEM6eYKH/y09dMNoh0gCRghRAc=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Aug 2024 04:46:15 UTC"
+record: -1

@@ -1,0 +1,32 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: number % 2 == 0 || number % 4 == 0
+    is_correct: false
+  - text: number % 2 == 0 && number % 4 == 0
+    is_correct: true
+  - text: number % 2 != 0 && number % 4 != 0
+    is_correct: false
+files:
+  - name: src/ConditionalDivisible.java
+    visible: true
+    placeholders:
+      - offset: 166
+        length: 39
+        placeholder_text: /* Replace with the correct condition */
+        initial_state:
+          length: 40
+          offset: 166
+        initialized_from_dependency: false
+        encrypted_possible_answer: f9rizCncCsuWKB6phYktjK6X8PJ5hVmZlfYf/rQeglQYuXA1UrJsn6/6gflfJaZY
+        selected: false
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 08:15:08 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: true

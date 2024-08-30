@@ -1,0 +1,26 @@
+type: output
+files:
+  - name: src/CheckDivisible.java
+    visible: true
+    placeholders:
+      - offset: 105
+        length: 97
+        placeholder_text: |-
+          /* Set the appropriate condition. */
+                /* Write the desired message. */
+        initial_state:
+          length: 75
+          offset: 105
+        initialized_from_dependency: false
+        encrypted_possible_answer: x2rsMSXrHZ71ul8ZIW9vrWsUdtlznukdupnXmhB1Ec7WZemY4l6wXeLk896RSGr/hhIMj37R6U7RH80cY+VsRKAjd0VSlWPxFWgbQTzu/2U8PUaMMtvBaWkCF/jr4p5PnBScJ1B2Oic8RKDXYT+S2A==
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 08:10:11 UTC"
+record: -1

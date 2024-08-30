@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: continue;
+    is_correct: false
+  - text: machineOn = false;
+    is_correct: true
+files:
+  - name: src/BreakingTheIce.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 30 Aug 2024 03:20:18 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: true

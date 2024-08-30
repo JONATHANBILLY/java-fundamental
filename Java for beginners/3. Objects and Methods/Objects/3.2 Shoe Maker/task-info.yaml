@@ -1,0 +1,47 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/Shoes.java
+    visible: true
+    placeholders:
+      - offset: 335
+        length: 26
+        placeholder_text: /* Create the boots as a Shoes object */
+        initial_state:
+          length: 40
+          offset: 335
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0obB6IgeEn5racsRgxNVpNphl+x8j+KYoe+9FdPuPhc=
+        selected: false
+        status: Solved
+      - offset: 368
+        length: 22
+        placeholder_text: /* Set the boots color to "black". */
+        initial_state:
+          length: 37
+          offset: 382
+        initialized_from_dependency: false
+        encrypted_possible_answer: V6lsmAqqi7588fD3lXSuxhgxInSKLvliUCWyQPaGPqc=
+        selected: false
+        status: Solved
+      - offset: 397
+        length: 16
+        placeholder_text: /* Set the boots size to 32. */
+        initial_state:
+          length: 31
+          offset: 426
+        initialized_from_dependency: false
+        encrypted_possible_answer: 2COBd166SVHY2t1gylAwD+YdDZfLevKrLyYKoS2yEqA=
+        selected: false
+        status: Solved
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 30 Aug 2024 03:49:56 UTC"
+record: -1

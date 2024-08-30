@@ -1,0 +1,33 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 9
+    is_correct: false
+  - text: 11
+    is_correct: false
+  - text: 12
+    is_correct: false
+  - text: 10
+    is_correct: true
+  - text: 13
+    is_correct: false
+  - text: Error
+    is_correct: false
+files:
+  - name: src/Main.java
+    visible: true
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 08:16:59 UTC"
+record: -1
+selected_options:
+  - 3
+local_check: true

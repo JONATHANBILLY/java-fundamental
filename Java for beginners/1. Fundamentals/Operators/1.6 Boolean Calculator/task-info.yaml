@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: (a >= b)
+    is_correct: true
+  - text: -b/a == c
+    is_correct: true
+  - text: (t || !f) == (2*c <= c)
+    is_correct: false
+  - text: (!t == f) != (b+c/a > a-b*c)
+    is_correct: true
+files:
+  - name: src/BooleanCalculator.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Aug 2024 08:15:36 UTC"
+record: -1
+selected_options:
+  - 0
+  - 1
+  - 3
+local_check: true

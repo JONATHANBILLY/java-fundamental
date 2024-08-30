@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":5._ArrayList_and_2D_Arrays-ArrayList-5.2_Average_Calculator" external.linked.project.path="$MODULE_DIR$/../../../../../5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java_for_beginners" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../5. ArrayList and 2D Arrays/ArrayList/5.2 Average Calculator/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+type: theory
+files:
+  - name: src/ShortcutOperators.java
+    visible: true
+    learner_created: false
+  - name: src/TestEnum.java
+    visible: true
+    learner_created: true
+status: Solved
+record: -1
+post_submission_on_open: true

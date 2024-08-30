@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: Put a conditional inside the loop.
+    is_correct: true
+  - text: Modify the condition of the loop itself.
+    is_correct: false
+  - text: Modify the variable updater statement of the loop.
+    is_correct: true
+files:
+  - name: src/OddSelector.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 29 Aug 2024 06:55:36 UTC"
+record: -1
+selected_options:
+  - 0
+  - 2
+local_check: true

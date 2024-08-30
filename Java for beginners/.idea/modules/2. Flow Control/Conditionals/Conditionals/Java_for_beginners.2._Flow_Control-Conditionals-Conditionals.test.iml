@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":2._Flow_Control-Conditionals-Conditionals:test" external.linked.project.path="$MODULE_DIR$/../../../../../2. Flow Control/Conditionals/Conditionals" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Java_for_beginners" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../2. Flow Control/Conditionals/Conditionals/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../2. Flow Control/Conditionals/Conditionals/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../2. Flow Control/Conditionals/Conditionals/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Java_for_beginners.2._Flow_Control-Conditionals-Conditionals.main" />
+    <orderEntry type="module" module-name="Java_for_beginners.util.main" />
+    <orderEntry type="module" module-name="Java_for_beginners.util.test" production-on-test="" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Java_for_beginners.2._Flow_Control-Conditionals-Conditionals.main" />
+</module>

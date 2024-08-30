@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: src/CoffeeShop.java
+    visible: true
+    placeholders:
+      - offset: 140
+        length: 105
+        placeholder_text: /* Type your answer here */
+        initial_state:
+          length: 27
+          offset: 140
+        initialized_from_dependency: false
+        encrypted_possible_answer: OkQ/HdqF0t9EBEX5OU2rLzoagU0k5ZocklCF2vOaFaoeJatNlTwhRVs4SY7LrjhhMi8sWUPEH07k399s49kP9eOWwhNnRs25vKMTPaD1UIa2kRzCHO+/ksuMoHHVoDdpfg53fA6WdiTDngQyC8a5zg==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: test/input.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 24 Aug 2024 11:41:23 UTC"
+record: -1

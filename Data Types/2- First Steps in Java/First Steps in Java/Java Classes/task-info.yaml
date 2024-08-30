@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: There is no main() method.
+    is_correct: false
+  - text: The name of the class is incorrect.
+    is_correct: true
+  - text: There is only one statement inside the main() method.
+    is_correct: false
+files:
+  - name: src/JavaClass.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 23 Aug 2024 17:00:51 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: true

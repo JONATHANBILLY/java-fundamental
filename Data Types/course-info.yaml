@@ -1,0 +1,16 @@
+type: marketplace
+title: Java Programming Basics
+language: English
+summary: "This is an introductory Java course, giving students an overview of the\
+  \ programming language. The course will be most beneficial for beginner-level Java\
+  \ learners. It covers core Java features and provides hands-on examples of Java\
+  \ code implementation. Taking this course will help you understand different data\
+  \ types and variables, as well as conditionals, recursion and looping concepts used\
+  \ in Java programming."
+programming_language: Java
+content:
+  - 1- Introduction to Programming
+  - 2- First Steps in Java
+  - 3- Flow Control
+mode: Study
+feedback_link: https://plugins.jetbrains.com/plugin/21005-java-programming-basics/reviews

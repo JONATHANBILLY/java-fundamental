@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Chained conditional
+    is_correct: false
+  - text: Nested conditional
+    is_correct: true
+files:
+  - name: src/ChainedVsNested.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 08:14:29 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: true

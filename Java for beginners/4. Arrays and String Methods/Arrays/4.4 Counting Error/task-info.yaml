@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "((\"lemon\"), (\"lime\"))"
+    is_correct: false
+  - text: "((\"tall\", \"short\"), (\"up\", \"down\"))"
+    is_correct: false
+  - text: "((\"rabbit\", \"bird\"), (\"cat\", \"dog\"), (\"gecko\", \"turtle\"))"
+    is_correct: false
+  - text: "((\"scarf\", \"gloves\", \"hat\"), (\"shoes\", \"shirt\", \"pants\"))"
+    is_correct: true
+  - text: "((\"math\", \"english\", \"physics\"), (\"golf\", \"baseball\", \"soccer\"\
+    ))"
+    is_correct: false
+files:
+  - name: src/CountingError.java
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/WordCutter.java
+    visible: true
+    placeholders:
+      - offset: 123
+        length: 78
+        placeholder_text: /* Code the cutInHalf method that returns the first half of
+          the word input. */
+        initial_state:
+          length: 78
+          offset: 123
+        initialized_from_dependency: false
+        encrypted_possible_answer: bHFGXImwHJv+cRk9TWcTxIBISiCSzk4T3FGgty3hHH4kh4h+OmntTcNUZcxJkeQp6tWTrZ0jrifloNj8hWx+RJ0a0jM6t5LsBniRJpzmzga7b2IS1xDqgQN+2d8Jj7dihE/YPKJnoq6i9Ztay4LY1A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/WordCutterTests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

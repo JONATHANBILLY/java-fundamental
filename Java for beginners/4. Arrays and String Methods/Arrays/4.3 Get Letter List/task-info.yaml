@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: src/LettersList.java
+    visible: true
+    placeholders:
+      - offset: 133
+        length: 88
+        placeholder_text: /* Complete the getLettersList method that get the list of letters
+          in the input word. */
+        initial_state:
+          length: 88
+          offset: 133
+        initialized_from_dependency: false
+        encrypted_possible_answer: bHFGXImwHJv+cRk9TWcTxBAp5aA03UsSKwZbVVtXqH0czQi8KopFDYZmNXYBL9XMKwHvM9qIGk4dQxHUsZKN9bnMpGimr45a+JSfXN/sw00Nx4qHRftIrvIIf0oL2/DuK6Obe2X6At/5wXRDcEeBFuzH0kxOM4k42Akoufvh2fgo4Swz46g33JI7ST59mrT+iyO2Py6+Qv2u+jLDMfH/31xM5NShp1wBxz34wgJep+IzZnD1+TIfReo2aS+vfoQXUDCK30E35g8zRQMo3C3MHAh4d2A6III0vH0TTed6Tetsuk/Xe9qU/jNBKMFL3dBeMz0DVwkWUdCVQoEweFKbFmsU65GkJ/HPufOWAZzb9t4=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/LettersTests.java
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

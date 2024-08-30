@@ -1,0 +1,16 @@
+type: theory
+files:
+  - name: src/PositiveNegativeZero.java
+    visible: true
+    learner_created: false
+  - name: Picture1.gif
+    visible: true
+    is_binary: true
+    learner_created: false
+  - name: img.png
+    visible: true
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,27 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/SayHello.java
+    visible: true
+    placeholders:
+      - offset: 77
+        length: 102
+        placeholder_text: /* Replace this line with your answer. */
+        initial_state:
+          length: 41
+          offset: 77
+        initialized_from_dependency: false
+        encrypted_possible_answer: hPCGMtq5LjZmA9ye76lrFLyzKDg1vs3yNqceyid0jTsgqoa3mWxqZS5Wwb/EKFQbDy9XTygPlO3+a5tDAtGbCW0aVOvgi6kAy7+WVYuoc84YuPHkiciw3aiHNumoGCAOCBmrMLfaNcumOQ59/x4DVg==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Aug 2024 04:43:12 UTC"
+record: -1

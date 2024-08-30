@@ -1,0 +1,45 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "continue, continue"
+    is_correct: false
+  - text: "continue, break"
+    is_correct: true
+  - text: "break, break"
+    is_correct: true
+  - text: "break, continue"
+    is_correct: false
+files:
+  - name: src/FindingPrimes.java
+    visible: true
+    placeholders:
+      - offset: 663
+        length: 8
+        placeholder_text: /* break or continue */
+        initial_state:
+          length: 23
+          offset: 663
+        initialized_from_dependency: false
+        encrypted_possible_answer: +rreWeLZ2/PtWdFPxkaAAA==
+        selected: true
+        status: Solved
+      - offset: 919
+        length: 8
+        placeholder_text: /* break or continue */
+        initial_state:
+          length: 23
+          offset: 934
+        initialized_from_dependency: false
+        encrypted_possible_answer: +rreWeLZ2/PtWdFPxkaAAA==
+        selected: true
+        status: Solved
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 30 Aug 2024 03:29:46 UTC"
+record: -1
+selected_options:
+  - 1
+  - 2
+local_check: true

@@ -1,0 +1,19 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: "true"
+    is_correct: false
+  - text: "false"
+    is_correct: true
+files:
+  - name: src/LogicalBoolean.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 26 Aug 2024 07:54:24 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: true

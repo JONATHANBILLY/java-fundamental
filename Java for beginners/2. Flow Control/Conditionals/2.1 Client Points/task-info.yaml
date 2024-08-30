@@ -1,0 +1,37 @@
+type: output
+files:
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+  - name: src/ClientPoints.java
+    visible: true
+    placeholders:
+      - offset: 94
+        length: 3
+        placeholder_text: /* Replace with an appropriate value */
+        initial_state:
+          length: 39
+          offset: 94
+        initialized_from_dependency: false
+        encrypted_possible_answer: tOBZruASZDyNTMhFnKhISw==
+        selected: true
+        status: Solved
+      - offset: 127
+        length: 5
+        placeholder_text: /* Replace with an appropriate value */
+        initial_state:
+          length: 39
+          offset: 163
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1qQ9kQ9eUXSirgUkxBvydQ==
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/latest_output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Aug 2024 09:06:34 UTC"
+record: -1

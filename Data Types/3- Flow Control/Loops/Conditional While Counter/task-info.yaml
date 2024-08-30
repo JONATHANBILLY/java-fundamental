@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: 1
+    is_correct: false
+  - text: 2
+    is_correct: true
+  - text: 4
+    is_correct: false
+  - text: 5
+    is_correct: false
+  - text: 8
+    is_correct: false
+files:
+  - name: src/ConditionalWhileCounter.java
+    visible: true
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 27 Aug 2024 10:02:44 UTC"
+record: -1
+selected_options:
+  - 1
+local_check: true
